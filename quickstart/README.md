@@ -98,7 +98,7 @@ cd tutorials/quickstart/fluid-openfoam
 ```
 
 You can also run OpenFOAM in parallel: `./run.sh -parallel`.
-Before the simulation again, cleanup the results and temporary files using `./clean-tutorial.sh`.
+Before running the simulation again, cleanup the results and temporary files using `./clean-tutorial.sh`.
 
 In serial, the simulation should take less than a minute to compute (simulated time: 2.5s).
 
